@@ -304,7 +304,7 @@ textarea::placeholder {
 }
 
 button:hover {
-    background-color: #20436B;
+    background-color: darkblue;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -313,7 +313,7 @@ button:hover {
 /*FOOTER*/
 #site-footer nav ul li {
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 40%;
     border: 1px solid rgb(214, 212, 212);
     padding: 10px;
     margin:10px;
