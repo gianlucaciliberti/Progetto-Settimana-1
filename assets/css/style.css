@@ -145,12 +145,6 @@ h3 {
     color:#20436B;
 }
 
-.skillslist li:nth-child(odd) {
-    background-color: rgb(244, 241, 241);
-}
-.skillslist li:first-child{
-    font-weight: bold;
-}
 
 .project:nth-of-type(odd) {
     background-color: rgb(244, 241, 241);
