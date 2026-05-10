@@ -1,16 +1,18 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 *, *::before, *::after {
     box-sizing: border-box;
 }
+body {
+    margin: 0
+}
+
 
 body {
     font-family:  'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.7;
     background-color: rgb(240, 230, 240);
-    margin: 0;
     color: #20436B;
 }
 
